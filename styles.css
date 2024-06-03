@@ -30,13 +30,13 @@ body {
   left: 55px;
   top: 90px;
   display: none;
-  font-size: 16px;
+  font-size: 17px;
   color: #228567;
 }
 
 #clock-box {
   position: absolute;
-  left: 60px;
+  left: 55px;
   top: 550px;
   font-size: 25px;
   opacity: 0;
