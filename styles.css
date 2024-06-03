@@ -25,10 +25,10 @@ body {
 
 #letter {
   position: absolute;
-  width: 400px;
+  width: 450px;
   height: 425px;
-  left: 60px;
-  top: 80px;
+  left: 55px;
+  top: 90px;
   display: none;
   font-size: 16px;
   color: #228567;
@@ -38,7 +38,7 @@ body {
   position: absolute;
   left: 60px;
   top: 550px;
-  font-size: 28px;
+  font-size: 25px;
   opacity: 0;
   transition: opacity 0.5s;
 }
@@ -52,9 +52,9 @@ body {
 }
 
 #clock {
-  margin-left: 48px;
+  margin-left: 15px;
 }
 
 #clock .digit {
-  font-size: 64px;
+  font-size: 60px;
 }
